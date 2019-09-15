@@ -5,7 +5,7 @@
 
 ### 修改说明
 
-原 Dockerfile 地址：https://github.com/apache/skywalking/tree/master/docker/oap
+原 Dockerfile 地址：https://github.com/apache/skywalking-docker
 
 * 关闭 oap 日志输出
 
