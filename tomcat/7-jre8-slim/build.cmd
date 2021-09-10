@@ -1,0 +1,1 @@
+docker build . -t xunki/tomcat:7-jre8-slim
